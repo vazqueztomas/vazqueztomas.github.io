@@ -1,4 +1,4 @@
-Title: Git and Github
+Title: Git and Github (EN)
 Date: 2024.06.07
 
 Hello! My name is Tomas, and I work with Python everyday.

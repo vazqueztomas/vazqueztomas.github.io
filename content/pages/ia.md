@@ -1,4 +1,4 @@
-Title: IA - El futuro es ahora
+Title: IA - El futuro es ahora (ES)
 Date: 2024.07.16
 
 > Hace un tiempo que se viene desarrollando una tecnología capaz de cambiar varios aspectos (por no decir todos) de nuestra vida. Esta tecnología está en pleno avance y nos referimos a ella como Inteligencia Artificial
